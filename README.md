@@ -1,26 +1,58 @@
 # Hi, I'm Andy Higa 👋
 
-Full Stack Developer focused on building web applications
-and solving real-world problems with technology.
+Full Stack Developer focused on building web applications and solving real-world problems with technology.
+
+Currently pursuing a Postgraduate Degree in Full Stack Development at FIAP.
 
 ## 🚀 Technologies
 
-JavaScript | TypeScript | Node.js | React | Next.js
-PostgreSQL | MySQL | SQLite | Docker | Git
+**Front-end:**  
+JavaScript • TypeScript • React • Next.js • HTML • CSS
 
-## 🎓 Currently studying
+**Back-end:**  
+Node.js • Express • REST APIs
 
-Postgraduate Degree in Full Stack Development - FIAP
+**Databases:**  
+PostgreSQL • MySQL • SQLite
+
+**Tools:**  
+Docker • Git • GitHub • Postman
 
 ## 💻 Featured Projects
 
-### Controle de Corte
-Industrial production control system developed to replace
-manual spreadsheet processes.
+### 🏭 [Controle de Corte](LINK_DO_REPOSITORIO)
+Industrial production control system developed to replace manual spreadsheet processes.
 
-### Tech Challenge FIAP
-Full Stack applications developed during my postgraduate course.
+**Technologies:** Node.js • Express • SQLite • JavaScript
+
+---
+
+### 🔧 [FIAP Tech Challenge - Phase 2](LINK_DO_REPOSITORIO)
+REST API developed during my postgraduate Full Stack course.
+
+**Technologies:** Node.js • TypeScript • PostgreSQL • Docker • Jest
+
+---
+
+### ⚛️ [FIAP Tech Challenge - Phase 3](LINK_DO_REPOSITORIO)
+Front-end application developed with React and TypeScript, consuming a REST API.
+
+**Technologies:** React • TypeScript • Axios
+
+---
+
+### 🇯🇵 [Japan Store API](LINK_DO_REPOSITORIO)
+REST API for managing a catalog of imported Japanese products.
+
+**Technologies:** Node.js • Express • JavaScript
+
+## 🎓 Education
+
+**Postgraduate Degree in Full Stack Development**  
+FIAP
+
+**Technology Degree in Systems Analysis and Development**
 
 ## 📫 Contact
 
-LinkedIn: linkedin.com/in/andyminoruhiga
+[LinkedIn](https://www.linkedin.com/in/andyminoruhiga)
