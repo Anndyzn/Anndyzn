@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Andy Higa 👋
 
-<!--
-**Anndyzn/Anndyzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building web applications
+and solving real-world problems with technology.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript | TypeScript | Node.js | React | Next.js
+PostgreSQL | MySQL | SQLite | Docker | Git
+
+## 🎓 Currently studying
+
+Postgraduate Degree in Full Stack Development - FIAP
+
+## 💻 Featured Projects
+
+### Controle de Corte
+Industrial production control system developed to replace
+manual spreadsheet processes.
+
+### Tech Challenge FIAP
+Full Stack applications developed during my postgraduate course.
+
+## 📫 Contact
+
+LinkedIn: linkedin.com/in/andyminoruhiga
